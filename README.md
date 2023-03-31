@@ -13,6 +13,10 @@ A backend application that allows storage of products within different categorie
 
 ## Demonstration
 
+
+https://user-images.githubusercontent.com/113956697/229031993-89b3625b-b854-4110-bdb5-828c91b755e2.mp4
+
+
 ## Installation
 To install the application you must install all the dependencies using <code>npm install</code> in your terminal.
 
