@@ -6,8 +6,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Licenses](#licenses)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 * [Credits](#credits)
 ## Description
@@ -24,12 +22,9 @@ To use this application you will need mysql and setting up your details in an <c
 ## Licenses
       This project is covered under the MIT license.
 
-## Contributing
-dnkjasl
-
 ## Questions
 Have questions about this project?  
 GitHub: https://github.com/rismahjo  
-Email: iojfda
+
 ## Credits
 rismahjo
